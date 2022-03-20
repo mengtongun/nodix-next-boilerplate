@@ -3,8 +3,12 @@
 const nextConfig = {
   reactStrictMode: false,
   swcMinify: true,
-  experimental: {},
   incremental: true,
+  compiler: {
+    removeConsole: {
+      exclude: ['error'],
+    },
+  },
 };
 
 module.exports = nextConfig;

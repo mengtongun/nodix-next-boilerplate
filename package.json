@@ -4,6 +4,7 @@
   "private": false,
   "author": "mengtongun",
   "description": "The Latest Version Boilerplate for NextJS with TypeScript 🚀",
+  "license": "MIT",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
