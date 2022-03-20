@@ -1,9 +1,9 @@
 {
   "name": "nodix-next-boilerplate",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "author": "mengtongun",
-  "description": "Boilerplate for NextJS with TypeScript",
+  "description": "The Latest Version Boilerplate for NextJS with TypeScript 🚀",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
@@ -11,7 +11,8 @@
     "lint": "next lint",
     "lint:fix": "next lint -- --fix",
     "prettier": "prettier . --check",
-    "prettier:fix": "prettier . --write"
+    "prettier:fix": "prettier . --write",
+    "test:e2e": "playwright test"
   },
   "dependencies": {
     "ahooks": "^3.1.13",
