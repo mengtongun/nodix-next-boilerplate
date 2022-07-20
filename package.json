@@ -29,7 +29,7 @@
     "@types/react": "^18.0.15", 
     "@typescript-eslint/eslint-plugin": "^5.30.7", 
     "@typescript-eslint/parser": "^5.30.5",
-    "eslint": "8.14.0", 
+    "eslint": "8.20.0", 
     "eslint-config-next": "12.2.2",   
     "husky": "^8.0.1",
     "lint-staged": "^13.0.3", 
