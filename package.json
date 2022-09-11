@@ -16,20 +16,20 @@
     "test:e2e": "playwright test"
   },
   "dependencies": {
-    "next": "12.2.5",
+    "next": "12.3.0",
     "react": "18.2.0",
     "react-dom": "18.2.0"
   },
   "devDependencies": { 
-    "@next/eslint-plugin-next": "^12.2.5", 
-    "@playwright/test": "^1.25.1",
-    "@types/node": "^18.7.13",
+    "@next/eslint-plugin-next": "^12.3.0", 
+    "@playwright/test": "^1.25.2",
+    "@types/node": "^18.7.16",
     "@types/react-dom": "^18.0.6",
-    "@types/react": "^18.0.17", 
-    "@typescript-eslint/eslint-plugin": "^5.35.1", 
-    "@typescript-eslint/parser": "^5.35.1",
-    "eslint": "8.22.0", 
-    "eslint-config-next": "12.2.5",   
+    "@types/react": "^18.0.19", 
+    "@typescript-eslint/eslint-plugin": "^5.36.2", 
+    "@typescript-eslint/parser": "^5.36.2",
+    "eslint": "8.23.0", 
+    "eslint-config-next": "12.3.0",   
     "husky": "^8.0.1",
     "lint-staged": "^13.0.3", 
     "eslint-plugin-jsx-a11y": "^6.6.1",   
@@ -37,7 +37,7 @@
     "husky": "^8.0.1", 
     "lint-staged": "^13.0.3",
     "prettier": "^2.7.1", 
-    "typescript": "^4.8.2"
+    "typescript": "^4.8.3"
   },
   "husky": {
     "hooks": {
